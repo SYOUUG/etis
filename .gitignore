@@ -1,0 +1,36 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### eclipse ###
+/target/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.svn
+.DS_Store
+/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+.DS_Store
+.tern-project
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
